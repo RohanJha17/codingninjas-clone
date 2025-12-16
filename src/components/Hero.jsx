@@ -150,7 +150,7 @@ export default function Hero() {
               bg-gradient-to-b from-[#CBB997] via-[#CBB997] to-[#08405F]
               opacity-40 blur-2xl" />
           </div>
-
+          
           {/* Border */}
           <div className="absolute w-[92%] max-w-sm h-full rounded-[2rem]
             border-[12px] border-[#15181A] z-30 pointer-events-none" />
