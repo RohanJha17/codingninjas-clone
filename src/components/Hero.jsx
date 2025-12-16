@@ -115,7 +115,7 @@ export default function Hero() {
         {/* LEFT TEXT SECTION */}
         <div className="lg:w-[44%] text-left sm:text-center lg:text-left flex flex-col items-center lg:items-start w-full">
 
-          <p className="text-transparent bg-clip-text bg-gradient-to-r from-[#00c23a] to-[#C6FF4D] font-semibold text-xs sm:text-sm lg:text-lg mb-5 sm:mb-8">
+          <p className="text-transparent bg-clip-text bg-gradient-to-r from-[#00c23a] to-[#C6FF4D] font-semibold text-sm sm:text-sm lg:text-lg mb-5 sm:mb-8">
             Restricted by opportunities?
           </p>
           <h1 className="text-3xl sm:text-3xl md:text-[2.8rem] font-bold mb-12 sm:mb-20 leading-normal sm:leading-normal lg:leading-snug">
