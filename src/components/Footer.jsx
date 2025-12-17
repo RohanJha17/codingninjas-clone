@@ -106,7 +106,7 @@ export default function Footer() {
               Copyright © Developed by - Rohan 💓.
             </p>
 
-            <div className="flex space-x-4">
+            <div className="flex space-x-4 cursor-pointer">
               <img src="https://files.codingninjas.com/group-48095591-31840.svg" className="w-8 h-8" />
               <img src="https://files.codingninjas.com/app-facebook-1-31841.svg" className="w-8 h-8" />
               <img src="https://files.codingninjas.in/group-48095609-31842.svg" className="w-8 h-8" />
